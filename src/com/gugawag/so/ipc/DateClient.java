@@ -24,7 +24,7 @@ public class DateClient {
 
 			String line = bin.readLine();
 			System.out.println("O servidor me disse:" + line);
-				
+			System.out.println("=== Amanda Gabrielle Soares de Almeida ===\n");	
 			sock.close();
 		}
 		catch (IOException ioe) {
